@@ -9,12 +9,6 @@ To imitate this scenario in the form of a machine learning project, I chose the 
 
 https://github.com/user-attachments/assets/1325bbbc-8894-4cf5-9283-8dcbd44b5164
 
-**Results**
-
-![image](https://github.com/user-attachments/assets/b788202c-e6a6-41a6-8a91-709c287e4953)
-
-
-
 Credit: 
 1. https://github.com/xuexingyu24/YOLO-V3-in-Pytorch-A-Tutorial-on-Implementation-of-YOLO-V3-Algorithm
 2. https://flower.ai/
